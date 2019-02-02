@@ -1,0 +1,415 @@
+Class,Heat,Lane,FirstName,LastName,CarNumber,FinishTime,FinishPlace
+Arrow of Light,1,1,Zander,Bauerle,1,3.1794,3
+Arrow of Light,2,4,Zander,Bauerle,1,3.1796,2
+Arrow of Light,4,3,Zander,Bauerle,1,3.1671,4
+Arrow of Light,5,6,Zander,Bauerle,1,3.1621,2
+Arrow of Light,6,2,Zander,Bauerle,1,3.1945,4
+Arrow of Light,7,5,Zander,Bauerle,1,3.1637,3
+Arrow of Light,1,5,Sean,Gluntz,12,3.3726,6
+Arrow of Light,2,1,Sean,Gluntz,12,3.2398,5
+Arrow of Light,3,4,Sean,Gluntz,12,3.4711,6
+Arrow of Light,5,3,Sean,Gluntz,12,3.4509,6
+Arrow of Light,6,6,Sean,Gluntz,12,3.4288,6
+Arrow of Light,7,2,Sean,Gluntz,12,3.4559,6
+Arrow of Light,1,2,Andrew,Honigford,19,3.1436,2
+Arrow of Light,2,5,Andrew,Honigford,19,3.1423,1
+Arrow of Light,3,1,Andrew,Honigford,19,3.1458,2
+Arrow of Light,4,4,Andrew,Honigford,19,3.1497,3
+Arrow of Light,6,3,Andrew,Honigford,19,3.1543,1
+Arrow of Light,7,6,Andrew,Honigford,19,3.1446,1
+Arrow of Light,1,6,Mack,Kempf,26,3.2195,4
+Arrow of Light,2,2,Mack,Kempf,26,3.2208,4
+Arrow of Light,3,5,Mack,Kempf,26,3.2476,4
+Arrow of Light,4,1,Mack,Kempf,26,3.2844,6
+Arrow of Light,5,4,Mack,Kempf,26,3.2602,5
+Arrow of Light,7,3,Mack,Kempf,26,3.2855,5
+Arrow of Light,1,3,Logan,Rich,35,3.2259,5
+Arrow of Light,2,6,Logan,Rich,35,3.2528,6
+Arrow of Light,3,2,Logan,Rich,35,3.2489,5
+Arrow of Light,4,5,Logan,Rich,35,3.2457,5
+Arrow of Light,5,1,Logan,Rich,35,3.2523,4
+Arrow of Light,6,4,Logan,Rich,35,3.2594,5
+Arrow of Light,2,3,Jaxen,Taber,42,3.1997,3
+Arrow of Light,3,6,Jaxen,Taber,42,3.1759,3
+Arrow of Light,4,2,Jaxen,Taber,42,3.1492,2
+Arrow of Light,5,5,Jaxen,Taber,42,3.1652,3
+Arrow of Light,6,1,Jaxen,Taber,42,3.1739,3
+Arrow of Light,7,4,Jaxen,Taber,42,3.2281,4
+Arrow of Light,1,4,Josh,Yaich,46,3.1358,1
+Arrow of Light,3,3,Josh,Yaich,46,3.1208,1
+Arrow of Light,4,6,Josh,Yaich,46,3.144,1
+Arrow of Light,5,2,Josh,Yaich,46,3.1355,1
+Arrow of Light,6,5,Josh,Yaich,46,3.155,2
+Arrow of Light,7,1,Josh,Yaich,46,3.1474,2
+Bear,1,1,Calvin,Beatty,2,3.298,4
+Bear,2,5,Calvin,Beatty,2,3.3073,2
+Bear,4,4,Calvin,Beatty,2,3.331,4
+Bear,6,3,Calvin,Beatty,2,3.331,4
+Bear,7,6,Calvin,Beatty,2,3.3374,3
+Bear,8,2,Calvin,Beatty,2,3.4148,4
+Bear,2,1,Caiden,Carey,5,3.3501,4
+Bear,3,5,Caiden,Carey,5,3.3516,4
+Bear,5,4,Caiden,Carey,5,3.3408,5
+Bear,7,3,Caiden,Carey,5,3.3411,4
+Bear,8,6,Caiden,Carey,5,3.3367,3
+Bear,9,2,Caiden,Carey,5,3.3341,5
+Bear,1,2,Gage,Husband,22,3.2842,3
+Bear,3,1,Gage,Husband,22,3.2377,2
+Bear,4,5,Gage,Husband,22,3.2747,2
+Bear,6,4,Gage,Husband,22,3.293,2
+Bear,8,3,Gage,Husband,22,7.463,6
+Bear,9,6,Gage,Husband,22,3.2183,1
+Bear,1,6,Gavin,Husband,23,3.4481,5
+Bear,2,2,Gavin,Husband,23,3.2903,1
+Bear,4,1,Gavin,Husband,23,3.4456,6
+Bear,5,5,Gavin,Husband,23,3.2661,2
+Bear,7,4,Gavin,Husband,23,3.3413,5
+Bear,9,3,Gavin,Husband,23,3.2947,4
+Bear,1,3,Ian,Mangen,28,7.4324,6
+Bear,2,6,Ian,Mangen,28,6.243,6
+Bear,3,2,Ian,Mangen,28,6.1494,6
+Bear,5,1,Ian,Mangen,28,8.4011,6
+Bear,6,5,Ian,Mangen,28,7.322,6
+Bear,8,4,Ian,Mangen,28,7.002,5
+Bear,2,3,Cole,Miller,31,3.3903,5
+Bear,3,6,Cole,Miller,31,3.431,5
+Bear,4,2,Cole,Miller,31,3.4263,5
+Bear,6,1,Cole,Miller,31,3.4189,5
+Bear,7,5,Cole,Miller,31,3.3598,6
+Bear,9,4,Cole,Miller,31,3.4254,6
+Bear,1,4,Aidan,Picciano,32,3.171,1
+Bear,3,3,Aidan,Picciano,32,3.1883,1
+Bear,4,6,Aidan,Picciano,32,3.1893,1
+Bear,5,2,Aidan,Picciano,32,3.1677,1
+Bear,7,1,Aidan,Picciano,32,3.1843,1
+Bear,8,5,Aidan,Picciano,32,3.1765,1
+Bear,2,4,Mason,Rhodes,34,3.3414,3
+Bear,4,3,Mason,Rhodes,34,3.3147,3
+Bear,5,6,Mason,Rhodes,34,3.2773,3
+Bear,6,2,Mason,Rhodes,34,3.3213,3
+Bear,8,1,Mason,Rhodes,34,3.2985,2
+Bear,9,5,Mason,Rhodes,34,3.2789,2
+Bear,1,5,Ashton,Trask,43,3.217,2
+Bear,3,4,Ashton,Trask,43,3.2904,3
+Bear,5,3,Ashton,Trask,43,3.2831,4
+Bear,6,6,Ashton,Trask,43,3.2453,1
+Bear,7,2,Ashton,Trask,43,3.2247,2
+Bear,9,1,Ashton,Trask,43,3.282,3
+Extreme Class,1,3,Dan,Carey,98,4.178,6
+Extreme Class,2,4,Dan,Carey,98,6.1341,6
+Extreme Class,3,5,Dan,Carey,98,3.1426,1
+Extreme Class,4,6,Dan,Carey,98,3.1364,1
+Extreme Class,5,1,Dan,Carey,98,3.1462,2
+Extreme Class,6,2,Dan,Carey,98,3.1442,2
+Extreme Class,1,4,Debra,Carey,99,1.1529,1
+Extreme Class,2,5,Debra,Carey,99,3.5322,4
+Extreme Class,3,6,Debra,Carey,99,3.5565,5
+Extreme Class,4,1,Debra,Carey,99,3.3571,4
+Extreme Class,5,2,Debra,Carey,99,0.8515,1
+Extreme Class,6,3,Debra,Carey,99,1.6771,1
+Extreme Class,1,6,Cara,Dixon,210,3.3232,3
+Extreme Class,2,1,Cara,Dixon,210,3.3737,3
+Extreme Class,3,2,Cara,Dixon,210,3.3786,3
+Extreme Class,4,3,Cara,Dixon,210,3.3484,3
+Extreme Class,5,4,Cara,Dixon,210,3.3169,4
+Extreme Class,6,5,Cara,Dixon,210,3.3465,4
+Extreme Class,1,1,Tim,Firlik,104,3.7227,5
+Extreme Class,2,2,Tim,Firlik,104,3.7489,5
+Extreme Class,3,3,Tim,Firlik,104,3.8088,6
+Extreme Class,4,4,Tim,Firlik,104,3.746,6
+Extreme Class,5,5,Tim,Firlik,104,4.7726,5
+Extreme Class,6,6,Tim,Firlik,104,3.7828,6
+Extreme Class,1,5,Jackie,Honigford,216,3.2652,2
+Extreme Class,2,6,Jackie,Honigford,216,3.2403,1
+Extreme Class,3,1,Jackie,Honigford,216,3.245,2
+Extreme Class,4,2,Jackie,Honigford,216,3.2839,2
+Extreme Class,5,3,Jackie,Honigford,216,3.3127,3
+Extreme Class,6,4,Jackie,Honigford,216,3.3017,3
+Extreme Class,1,2,Cam,Vanover,223,3.365,4
+Extreme Class,2,3,Cam,Vanover,223,3.3709,2
+Extreme Class,3,4,Cam,Vanover,223,3.4034,4
+Extreme Class,4,5,Cam,Vanover,223,3.3918,5
+Extreme Class,5,6,Cam,Vanover,223,6.3668,6
+Extreme Class,6,1,Cam,Vanover,223,3.3495,5
+Lion,1,1,Nora,Gluntz,11,3.2732,1
+Lion,2,2,Nora,Gluntz,11,3.2281,1
+Lion,3,3,Nora,Gluntz,11,3.2452,1
+Lion,4,4,Nora,Gluntz,11,3.2135,1
+Lion,5,5,Nora,Gluntz,11,3.212,1
+Lion,6,6,Nora,Gluntz,11,3.2172,1
+Lion,1,6,Amia,Hartman,16,3.4235,3
+Lion,2,1,Amia,Hartman,16,3.4597,3
+Lion,3,2,Amia,Hartman,16,3.4199,3
+Lion,4,3,Amia,Hartman,16,3.4657,3
+Lion,5,4,Amia,Hartman,16,3.4195,3
+Lion,6,5,Amia,Hartman,16,3.4353,3
+Lion,1,5,Luke,Rich,36,3.2764,2
+Lion,2,6,Luke,Rich,36,3.3208,2
+Lion,3,1,Luke,Rich,36,3.2836,2
+Lion,4,2,Luke,Rich,36,3.2866,2
+Lion,5,3,Luke,Rich,36,3.3129,2
+Lion,6,4,Luke,Rich,36,3.2871,2
+Open Class,2,2,Ned,Bauerle,103,3.2403,2
+Open Class,4,5,Ned,Bauerle,103,3.2434,3
+Open Class,7,4,Ned,Bauerle,103,3.257,2
+Open Class,15,1,Ned,Bauerle,103,3.2401,4
+Open Class,20,6,Ned,Bauerle,103,3.2253,4
+Open Class,22,3,Ned,Bauerle,103,3.2607,3
+Open Class,2,1,Noah,Bauerle,100,3.2414,3
+Open Class,6,6,Noah,Bauerle,100,3.2147,2
+Open Class,8,3,Noah,Bauerle,100,3.2028,2
+Open Class,17,5,Noah,Bauerle,100,3.214,4
+Open Class,21,4,Noah,Bauerle,100,3.2168,2
+Open Class,22,2,Noah,Bauerle,100,3.2105,2
+Open Class,1,1,Sophie,Bauerle,102,3.2663,2
+Open Class,7,3,Sophie,Bauerle,102,3.2781,4
+Open Class,16,5,Sophie,Bauerle,102,3.2806,3
+Open Class,17,6,Sophie,Bauerle,102,3.2565,5
+Open Class,18,2,Sophie,Bauerle,102,3.2894,3
+Open Class,20,4,Sophie,Bauerle,102,3.2809,5
+Open Class,1,2,Sydney,Bauerle,101,3.3736,6
+Open Class,4,6,Sydney,Bauerle,101,3.3942,4
+Open Class,6,5,Sydney,Bauerle,101,3.4124,6
+Open Class,12,4,Sydney,Bauerle,101,3.3888,5
+Open Class,14,1,Sydney,Bauerle,101,3.3665,6
+Open Class,18,3,Sydney,Bauerle,101,3.3936,6
+Open Class,5,3,Andra,Beatty,10000,3.3343,5
+Open Class,9,1,Andra,Beatty,10000,3.2888,6
+Open Class,14,4,Andra,Beatty,10000,3.3495,5
+Open Class,18,5,Andra,Beatty,10000,3.319,5
+Open Class,19,2,Andra,Beatty,10000,3.3229,4
+Open Class,22,6,Andra,Beatty,10000,3.2742,4
+Open Class,2,4,Isla,Beatty,9999,3.2596,4
+Open Class,3,2,Isla,Beatty,9999,3.2331,4
+Open Class,8,5,Isla,Beatty,9999,3.2553,4
+Open Class,11,3,Isla,Beatty,9999,3.2306,5
+Open Class,13,1,Isla,Beatty,9999,3.2335,3
+Open Class,18,6,Isla,Beatty,9999,3.2538,2
+Open Class,1,5,Emily,Firlik,10002,3.3064,3
+Open Class,2,6,Emily,Firlik,10002,3.2928,5
+Open Class,9,2,Emily,Firlik,10002,3.2825,5
+Open Class,11,4,Emily,Firlik,10002,3.2705,6
+Open Class,16,1,Emily,Firlik,10002,3.2891,4
+Open Class,19,3,Emily,Firlik,10002,3.3086,3
+Open Class,1,4,Tina,Garcia,80,3.3532,4
+Open Class,5,2,Tina,Garcia,80,3.316,4
+Open Class,7,5,Tina,Garcia,80,3.3458,5
+Open Class,8,6,Tina,Garcia,80,3.3061,5
+Open Class,15,3,Tina,Garcia,80,3.32,5
+Open Class,19,1,Tina,Garcia,80,3.332,5
+Open Class,3,4,Lucy,Harriman,205,3.2186,3
+Open Class,6,1,Lucy,Harriman,205,3.2238,3
+Open Class,9,3,Lucy,Harriman,205,3.2395,3
+Open Class,14,5,Lucy,Harriman,205,3.2584,3
+Open Class,15,6,Lucy,Harriman,205,3.2328,3
+Open Class,16,2,Lucy,Harriman,205,3.249,2
+Open Class,1,6,Lily,Head,10001,3.3567,5
+Open Class,3,3,Lily,Head,10001,3.3319,5
+Open Class,10,1,Lily,Head,10001,3.3297,4
+Open Class,13,2,Lily,Head,10001,3.3252,4
+Open Class,15,4,Lily,Head,10001,3.3517,6
+Open Class,22,5,Lily,Head,10001,3.3399,5
+Open Class,5,6,Emma,Honigford,217,3.2048,2
+Open Class,6,2,Emma,Honigford,217,3.212,1
+Open Class,11,5,Emma,Honigford,217,3.1937,2
+Open Class,13,4,Emma,Honigford,217,3.213,2
+Open Class,16,3,Emma,Honigford,217,3.2114,1
+Open Class,20,1,Emma,Honigford,217,3.2069,1
+Open Class,3,6,Marc,Honigford,218,3.1628,2
+Open Class,4,2,Marc,Honigford,218,3.1324,1
+Open Class,5,5,Marc,Honigford,218,3.1348,1
+Open Class,9,4,Marc,Honigford,218,3.1402,1
+Open Class,17,3,Marc,Honigford,218,3.1307,1
+Open Class,21,1,Marc,Honigford,218,3.1325,1
+Open Class,4,3,Anna,Kear,89,3.9815,5
+Open Class,7,1,Anna,Kear,89,3.6566,6
+Open Class,13,6,Anna,Kear,89,3.6685,6
+Open Class,16,4,Anna,Kear,89,3.7177,5
+Open Class,19,5,Anna,Kear,89,3.689,6
+Open Class,21,2,Anna,Kear,89,3.7,6
+Open Class,4,4,Ella,Mangen,78,7.7061,6
+Open Class,8,2,Ella,Mangen,78,7.4532,6
+Open Class,10,5,Ella,Mangen,78,6.4212,6
+Open Class,12,3,Ella,Mangen,78,7.7762,6
+Open Class,16,6,Ella,Mangen,78,7.9328,6
+Open Class,22,1,Ella,Mangen,78,6.6165,6
+Open Class,2,5,Gabby,Picciano,201,3.3542,6
+Open Class,5,4,Gabby,Picciano,201,3.3523,6
+Open Class,10,2,Gabby,Picciano,201,3.3581,5
+Open Class,13,3,Gabby,Picciano,201,3.3345,5
+Open Class,14,6,Gabby,Picciano,201,3.3486,4
+Open Class,17,1,Gabby,Picciano,201,3.3313,6
+Open Class,2,3,Aleigh,Rhodes,104,3.2395,1
+Open Class,5,1,Aleigh,Rhodes,104,3.22,3
+Open Class,12,6,Aleigh,Rhodes,104,3.2131,2
+Open Class,15,2,Aleigh,Rhodes,104,3.2305,2
+Open Class,18,4,Aleigh,Rhodes,104,3.234,1
+Open Class,21,5,Aleigh,Rhodes,104,3.2355,3
+Open Class,1,3,Anthony,Rhodes,44,3.2574,1
+Open Class,8,4,Anthony,Rhodes,44,3.2146,3
+Open Class,11,1,Anthony,Rhodes,44,3.2085,3
+Open Class,14,2,Anthony,Rhodes,44,3.2326,2
+Open Class,20,5,Anthony,Rhodes,44,3.2156,3
+Open Class,21,6,Anthony,Rhodes,44,3.242,4
+Open Class,3,1,Brad,Swank,105,3.1572,1
+Open Class,7,6,Brad,Swank,105,3.1705,1
+Open Class,11,2,Brad,Swank,105,3.1668,1
+Open Class,12,5,Brad,Swank,105,3.1417,1
+Open Class,14,3,Brad,Swank,105,3.1664,1
+Open Class,22,4,Brad,Swank,105,3.154,1
+Open Class,4,1,Johnnie,Taber,215,3.2073,2
+Open Class,10,3,Johnnie,Taber,215,3.2405,1
+Open Class,11,6,Johnnie,Taber,215,3.2124,4
+Open Class,15,5,Johnnie,Taber,215,3.1912,1
+Open Class,17,2,Johnnie,Taber,215,3.1859,3
+Open Class,19,4,Johnnie,Taber,215,3.232,1
+Open Class,3,5,Dave,Weber,90,3.3467,6
+Open Class,6,3,Dave,Weber,90,3.3236,5
+Open Class,10,4,Dave,Weber,90,3.3275,3
+Open Class,12,1,Dave,Weber,90,3.301,4
+Open Class,19,6,Dave,Weber,90,3.3009,2
+Open Class,20,2,Dave,Weber,90,3.3149,6
+Open Class,8,1,Jen,Yaich,48,3.1912,1
+Open Class,9,6,Jen,Yaich,48,3.2114,2
+Open Class,12,2,Jen,Yaich,48,3.2712,3
+Open Class,13,5,Jen,Yaich,48,3.1692,1
+Open Class,17,4,Jen,Yaich,48,3.1779,2
+Open Class,20,3,Jen,Yaich,48,3.2095,2
+Open Class,6,4,Steve,Yaich,49,3.2351,4
+Open Class,7,2,Steve,Yaich,49,3.2706,3
+Open Class,9,5,Steve,Yaich,49,3.2461,4
+Open Class,10,6,Steve,Yaich,49,3.2441,2
+Open Class,18,1,Steve,Yaich,49,3.3011,4
+Open Class,21,3,Steve,Yaich,49,3.2725,5
+Tiger,1,1,Arden,Carey,4,3.4799,3
+Tiger,2,4,Arden,Carey,4,3.4858,3
+Tiger,4,3,Arden,Carey,4,3.5012,3
+Tiger,5,6,Arden,Carey,4,3.4657,2
+Tiger,6,2,Arden,Carey,4,3.4917,3
+Tiger,7,5,Arden,Carey,4,3.5083,2
+Tiger,1,5,Alex,Dean,8,3.5596,4
+Tiger,2,1,Alex,Dean,8,3.5443,4
+Tiger,3,4,Alex,Dean,8,3.5842,3
+Tiger,5,3,Alex,Dean,8,3.5775,3
+Tiger,6,6,Alex,Dean,8,3.5854,4
+Tiger,7,2,Alex,Dean,8,3.5823,3
+Tiger,1,2,Elija,Elbert,9,3.405,2
+Tiger,2,5,Elija,Elbert,9,3.3612,2
+Tiger,3,1,Elija,Elbert,9,3.3382,2
+Tiger,4,4,Elija,Elbert,9,3.4172,2
+Tiger,6,3,Elija,Elbert,9,3.4829,2
+Tiger,7,6,Elija,Elbert,9,3.464,1
+Tiger,1,6,Todd,Hundley,21,3.8557,6
+Tiger,2,2,Todd,Hundley,21,3.8238,6
+Tiger,3,5,Todd,Hundley,21,3.8297,5
+Tiger,4,1,Todd,Hundley,21,3.818,5
+Tiger,5,4,Todd,Hundley,21,3.714,4
+Tiger,7,3,Todd,Hundley,21,3.8069,5
+Tiger,1,3,Ryan,Shuttleworth,40,3.3598,1
+Tiger,2,6,Ryan,Shuttleworth,40,3.3132,1
+Tiger,3,2,Ryan,Shuttleworth,40,3.2693,1
+Tiger,4,5,Ryan,Shuttleworth,40,3.3322,1
+Tiger,5,1,Ryan,Shuttleworth,40,3.3969,1
+Tiger,6,4,Ryan,Shuttleworth,40,3.2979,1
+Tiger,2,3,Cade,Vanover,200,3.8094,5
+Tiger,3,6,Cade,Vanover,200,3.8478,6
+Tiger,4,2,Cade,Vanover,200,3.8394,6
+Tiger,5,5,Cade,Vanover,200,3.8339,5
+Tiger,6,1,Cade,Vanover,200,3.8854,6
+Tiger,7,4,Cade,Vanover,200,3.8039,4
+Tiger,1,4,Jackson,Warner,45,3.7617,5
+Tiger,3,3,Jackson,Warner,45,3.8084,4
+Tiger,4,6,Jackson,Warner,45,3.8013,4
+Tiger,5,2,Jackson,Warner,45,4.061,6
+Tiger,6,5,Jackson,Warner,45,3.7439,5
+Tiger,7,1,Jackson,Warner,45,4.1431,6
+Webelos,1,1,Tristian,Carey,6,3.3077,2
+Webelos,2,4,Tristian,Carey,6,3.2938,3
+Webelos,4,3,Tristian,Carey,6,3.3053,3
+Webelos,5,6,Tristian,Carey,6,3.3216,3
+Webelos,6,2,Tristian,Carey,6,3.3084,3
+Webelos,7,5,Tristian,Carey,6,3.3367,4
+Webelos,1,5,Ben,Firlik,10,3.3974,4
+Webelos,2,1,Ben,Firlik,10,3.3955,5
+Webelos,3,4,Ben,Firlik,10,3.4015,6
+Webelos,5,3,Ben,Firlik,10,3.4004,4
+Webelos,6,6,Ben,Firlik,10,3.3988,4
+Webelos,7,2,Ben,Firlik,10,3.42,6
+Webelos,1,2,Luke,Gregory,13,3.3103,3
+Webelos,2,5,Luke,Gregory,13,3.3265,4
+Webelos,3,1,Luke,Gregory,13,3.3213,3
+Webelos,4,4,Luke,Gregory,13,3.3126,4
+Webelos,6,3,Luke,Gregory,13,3.2843,1
+Webelos,7,6,Luke,Gregory,13,3.3355,3
+Webelos,1,6,Eli,Harriman,14,3.2981,1
+Webelos,2,2,Eli,Harriman,14,3.2853,1
+Webelos,3,5,Eli,Harriman,14,3.2781,1
+Webelos,4,1,Eli,Harriman,14,3.2832,1
+Webelos,5,4,Eli,Harriman,14,3.2845,1
+Webelos,7,3,Eli,Harriman,14,3.2878,1
+Webelos,1,3,Bowen,Kear,25,3.4245,5
+Webelos,2,6,Bowen,Kear,25,3.4239,6
+Webelos,3,2,Bowen,Kear,25,3.3681,4
+Webelos,4,5,Bowen,Kear,25,3.3986,6
+Webelos,5,1,Bowen,Kear,25,3.4278,5
+Webelos,6,4,Bowen,Kear,25,3.4638,6
+Webelos,2,3,Walker,Martini,30,3.2863,2
+Webelos,3,6,Walker,Martini,30,3.2828,2
+Webelos,4,2,Walker,Martini,30,3.287,2
+Webelos,5,5,Walker,Martini,30,3.287,2
+Webelos,6,1,Walker,Martini,30,3.2913,2
+Webelos,7,4,Walker,Martini,30,3.2988,2
+Webelos,1,4,Tyler,Rich,37,3.5606,6
+Webelos,3,3,Tyler,Rich,37,3.3929,5
+Webelos,4,6,Tyler,Rich,37,3.3913,5
+Webelos,5,2,Tyler,Rich,37,3.4375,6
+Webelos,6,5,Tyler,Rich,37,3.4088,5
+Webelos,7,1,Tyler,Rich,37,3.3791,5
+Wolf,1,1,Andrew,Bush,3,3.6375,5
+Wolf,3,3,Andrew,Bush,3,3.4943,6
+Wolf,4,6,Andrew,Bush,3,3.5452,6
+Wolf,5,4,Andrew,Bush,3,3.6635,6
+Wolf,7,2,Andrew,Bush,3,3.7167,6
+Wolf,8,5,Andrew,Bush,3,3.5799,5
+Wolf,1,5,Hunter,Coffey,7,3.4347,3
+Wolf,2,1,Hunter,Coffey,7,3.3797,5
+Wolf,4,3,Hunter,Coffey,7,3.2228,3
+Wolf,6,4,Hunter,Coffey,7,3.2138,2
+Wolf,7,6,Hunter,Coffey,7,3.2066,3
+Wolf,8,2,Hunter,Coffey,7,3.3313,3
+Wolf,1,2,Shawn,Hartman,17,3.4398,4
+Wolf,2,5,Shawn,Hartman,17,3.4216,6
+Wolf,3,4,Shawn,Hartman,17,3.375,5
+Wolf,5,1,Shawn,Hartman,17,3.3905,5
+Wolf,7,3,Shawn,Hartman,17,3.4382,5
+Wolf,8,6,Shawn,Hartman,17,3.6698,6
+Wolf,1,6,Daniel,Hensley,18,7.4821,6
+Wolf,2,2,Daniel,Hensley,18,3.2978,4
+Wolf,4,4,Daniel,Hensley,18,3.3273,5
+Wolf,5,5,Daniel,Hensley,18,3.3033,4
+Wolf,6,1,Daniel,Hensley,18,3.3045,5
+Wolf,8,3,Daniel,Hensley,18,3.3426,4
+Wolf,1,3,Mitch,Huber,20,3.1281,1
+Wolf,2,6,Mitch,Huber,20,3.1342,1
+Wolf,3,1,Mitch,Huber,20,3.1408,1
+Wolf,5,2,Mitch,Huber,20,3.1496,1
+Wolf,6,5,Mitch,Huber,20,3.1295,1
+Wolf,7,4,Mitch,Huber,20,3.1353,1
+Wolf,2,3,Liam,Lowe-Garcia,27,3.2423,3
+Wolf,3,5,Liam,Lowe-Garcia,27,3.1991,2
+Wolf,4,1,Liam,Lowe-Garcia,27,3.1968,1
+Wolf,5,6,Liam,Lowe-Garcia,27,3.2108,2
+Wolf,6,2,Liam,Lowe-Garcia,27,3.2156,3
+Wolf,8,4,Liam,Lowe-Garcia,27,3.2205,1
+Wolf,1,4,Sawyer,Prendergast,33,3.334,2
+Wolf,3,2,Sawyer,Prendergast,33,3.2971,4
+Wolf,4,5,Sawyer,Prendergast,33,3.327,4
+Wolf,5,3,Sawyer,Prendergast,33,3.299,3
+Wolf,6,6,Sawyer,Prendergast,33,3.3438,6
+Wolf,7,1,Sawyer,Prendergast,33,3.3425,4
+Wolf,2,4,Ethan,Swank,41,3.1888,2
+Wolf,3,6,Ethan,Swank,41,3.2279,3
+Wolf,4,2,Ethan,Swank,41,3.2077,2
+Wolf,6,3,Ethan,Swank,41,3.2406,4
+Wolf,7,5,Ethan,Swank,41,3.1985,2
+Wolf,8,1,Ethan,Swank,41,3.2533,2
