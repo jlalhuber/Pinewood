@@ -1,9 +1,9 @@
-# Pinewood
+## Pinewood
 Pinewood Derby Analysis Pack 90
 #R File
 The attached R script povides a number of analytical combinations of the data that I was given from the racing software.
 
-#Data
+# Data
 1. Class - Class rank of participant. 
 2. Heat - Heat that the participant perticpated in.  Each Den ran there own races.
 3. Lane - Lane that the participant's care was raced in.
