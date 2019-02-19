@@ -216,13 +216,13 @@ $(document).ready(function () {
 <p>Pinewood Derby Analysis Pack 90</p>
 <div id="r-file" class="section level3">
 <h3><em>R File</em></h3>
-<p>The attached <a href="https://github.com/jlalhuber/Pinewood/blob/master/Derby%20Stats.R">R script</a> povides a number of analytical combinations of the data that I was given from the racing software.</p>
+<p>The attached <a href="https://github.com/jlalhuber/Pinewood/blob/master/Derby%20Stats.R">R script</a> provides a number of analytic combinations of the data that I was given from the racing software.</p>
 </div>
 <div id="data" class="section level2">
 <h2>Data</h2>
 <ol style="list-style-type: decimal">
 <li>Class - Class rank of participant.</li>
-<li>Heat - Heat that the participant perticpated in. Each Den ran there own races.</li>
+<li>Heat - Heat that the participant participated in. Each Den ran there own races.</li>
 <li>Lane - Lane that the participant’s care was raced in.</li>
 <li>FirstName - First name of Participant</li>
 <li>LastName - Last name of Participant</li>
@@ -400,7 +400,7 @@ spread(derby19SummaryLane, Lane, AverageFinishTime)</code></pre>
 </div>
 <div id="data-summaries-by-finishtime-rank" class="section level2">
 <h2>Data Summaries by Finishtime Rank</h2>
-<p>Ranking a finish time was used to noramlize the data. Key questions to solve are: 1. Which lane is faster? 2. Which heat is faster? ### <em>Create Finishtime Rank</em></p>
+<p>Ranking a finish time was used to normalize the data. Key questions to solve are: 1. Which lane is faster? 2. Which heat is faster? ### <em>Create Finishtime Rank</em></p>
 <pre class="r"><code>#loop created to produce rank for individual. Loop is dependent on each racer having 6 runs
 #nrow(derby19scout)/6)
 count &lt;- 1

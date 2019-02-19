@@ -17,11 +17,11 @@ output:
 Pinewood Derby Analysis Pack 90 
 
 ### *R File*
-The attached [R script][1] povides a number of analytical combinations of the data that I was given from the racing software.
+The attached [R script][1] provides a number of analytic combinations of the data that I was given from the racing software.
 
 ## Data
 1. Class - Class rank of participant. 
-2. Heat - Heat that the participant perticpated in.  Each Den ran there own races.
+2. Heat - Heat that the participant participated in.  Each Den ran there own races.
 3. Lane - Lane that the participant's care was raced in.
 4. FirstName - First name of Participant
 5. LastName - Last name of Participant
@@ -284,7 +284,7 @@ spread(derby19SummaryLane, Lane, AverageFinishTime)
 ```
 
 ## Data Summaries by Finishtime Rank
-Ranking a finish time was used to noramlize the data. Key questions to solve are:
+Ranking a finish time was used to normalize the data. Key questions to solve are:
 1. Which lane is faster? 
 2. Which heat is faster?
 ### *Create Finishtime Rank*
