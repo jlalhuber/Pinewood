@@ -414,11 +414,7 @@ qplot(data = derby19scout, HeatAdj, FinishTime, geom = c("point"), aes(group = H
 ```r
 #Summary of ALL Participants
 qplot(data = derby19, HeatAdj, FinishTime, geom = c("point"), aes(group = HeatAdj, color = FullName), 
-      facets = .~ Class, xlab = "Heat (1:6)", ylab = "Finish Time", main = "2019 Pack 90 Pinewood Derby Results", ylim = c(3.1,3.8))
-```
-
-```
-## Warning: Removed 38 rows containing missing values (geom_point).
+      facets = .~ Class, xlab = "Heat (1:6)", ylab = "Finish Time", main = "2019 Pack 90 Pinewood Derby Results")
 ```
 
 ![](2019_Pack_90_Pinewood_Dervy_Results_files/figure-html/unnamed-chunk-14-3.png)<!-- -->
