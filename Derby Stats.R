@@ -6,6 +6,9 @@ library(dplyr)
 install.packages("tidyr")
 library(tidyr)
 
+install.packages("ggplot2")
+library(ggplot2)
+
 #Load File
 tempderby19 <- read.csv("Pack90Derby-Results.csv")
 #convert to Data Frame dplyr package
